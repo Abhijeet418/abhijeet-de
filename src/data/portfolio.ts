@@ -135,7 +135,7 @@ export const skills = {
     "RabbitMQ",
     "GitOps",
   ],
-  frameworks: ["Streamlit", "Spring Boot", "Next.js", "React/Native"],
+  frameworks: ["Streamlit", "Flask", "FAST API", "Spring Boot", "Next.js", "React/Native"],
   softSkills: ["Teamwork", "Adaptability", "Communication", "Attention to Detail"],
 };
 
