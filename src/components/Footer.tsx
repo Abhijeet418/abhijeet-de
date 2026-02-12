@@ -55,7 +55,7 @@ export default function Footer() {
                 <Mail size={24} />
               </a>
               <a
-                href="https://linkedin.com/in/abhijeet-chatterjee"
+                href="https://linkedin.com/in/1abhijeet1"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-300 dark:text-gray-600 hover:text-white dark:hover:text-black transition-colors"
